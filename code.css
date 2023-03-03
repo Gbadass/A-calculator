@@ -1,0 +1,95 @@
+/* .btn1{
+  padding: 20px;
+  background-color: rgb(126, 13, 13);
+  padding-left: 50px;
+  padding-right: 50px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  
+}
+
+.btn2{
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  padding-left: 50px;
+  padding-right: 50px;
+  border: 0.5px solid gray;
+  border-radius: 10px;
+  color: red;
+  font-size: 20px;
+  
+}
+
+
+.btn2:hover{
+  background-color: rgb(120, 36, 36);
+  color: white;
+  box-shadow:  2px 3px 4px 4px black;
+}
+
+.main{
+  background-image: url(./w9.jpeg);
+  width: 40%;
+  height: 450px;
+  align-items: center;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+} */
+
+
+.btn1,
+.btn2,
+.btn3,
+.btn4{
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgb(112, 112, 236);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  display: block;
+  margin-top: 20px;
+}
+
+.btn1,
+.btn4{
+  margin-left: 114px;
+}
+
+.p-div{
+  display: flex;
+  margin-left: 133px;
+  color: rgb(112, 112, 236);
+
+}
+
+.p1{
+  margin-right: 10px;
+  border-bottom: 1px solid black;
+  width: 1%;
+
+}
+
+.p2{
+  border-bottom: 1px solid black;
+  width: 1%;
+}
+
+.p3{
+  margin-left: 140px;
+  border-bottom: 1px solid black;
+  color: rgb(112, 112, 236);
+  width: 3%;
+  padding: 4px;
+}
+
+.btn3{
+  margin-left: 200px;
+  margin-top:-36px;
+}
+
